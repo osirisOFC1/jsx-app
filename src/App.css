@@ -1,0 +1,28 @@
+body{
+  background-color: darkkhaki;
+}
+
+
+
+.App {
+  text-align: center;
+  margin-top: 2rem;
+background-color: darkkhaki;
+}
+
+.product-card {
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 2rem;
+  padding: 1rem;
+  background-color: #c7a44c;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.product-card img {
+  width: 100%;
+  height: auto;
+  margin-top: 1rem;
+  background-color: darkkhaki;
+}
+
